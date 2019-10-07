@@ -94,7 +94,7 @@ a {
           /*nav bar color*/
         background: #2d5c9d;}
       #mainNav .nav-link:focus, .nav-link:hover {
-          color: black;
+          color: white;
           /*border: 1px solid #42DCA3;*/
           border-radius: 12px;
           outline: none;
